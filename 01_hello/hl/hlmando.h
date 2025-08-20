@@ -1,5 +1,0 @@
-
-// prototype
-int foo(int);
-
-
