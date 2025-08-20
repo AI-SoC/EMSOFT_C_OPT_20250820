@@ -1,0 +1,5 @@
+
+// prototype
+int foo(int);
+
+
